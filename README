@@ -1,0 +1,68 @@
+Python OOP Assignment
+📌 Instructions
+
+Complete the tasks below in separate Python files or a single file with clear sections.
+
+Apply Object-Oriented Programming (OOP) principles:
+
+Classes & Objects
+
+Constructors (__init__)
+
+Inheritance
+
+Encapsulation
+
+Polymorphism
+
+Add comments in your code to explain what each part does.
+
+Test your code by creating objects and running the methods.
+
+🏗️ Assignment 1: Design Your Own Class
+Task
+
+Create a class representing a real-world object (e.g., Smartphone, Book, or Superhero).
+
+Define attributes (characteristics) and methods (behaviors).
+
+Use a constructor to initialize each object with unique values.
+
+Demonstrate inheritance by creating a subclass.
+
+Show encapsulation by making some attributes private and controlling access with getters/setters.
+
+Learning Goals
+
+Understand how to build and use your own classes.
+
+Practice encapsulation to protect class attributes.
+
+Explore inheritance to extend functionality.
+
+🎭 Activity 2: Polymorphism Challenge
+Task
+
+Create multiple classes that share a common method name (e.g., move()).
+
+Each class should implement the method differently.
+
+Example: A Car’s move() could print “Driving” 🚗, while a Plane’s move() prints “Flying” ✈️.
+
+Demonstrate polymorphism by calling the same method on different objects.
+
+Learning Goals
+
+See how polymorphism allows flexibility in code.
+
+Understand how the same method can behave differently across classes.
+
+📂 Submission Guidelines
+
+Submit your solution as one or more .py files.
+
+Clearly label each section (e.g., “Assignment 1”, “Activity 2”).
+
+Ensure your code runs without errors.
+
+Keep your work neat and well-documented.
